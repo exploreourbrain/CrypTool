@@ -2,11 +2,11 @@
 a Mini and Simple Crypto Tool PHP CLI Based
 
 
-## > Linux 
+### Linux 
 
 ```php Cryptool.php```
 
-## > Windows 
+### Windows 
 <ul>
   <li>Copy and Paste to xampp/php</li>
   <li>type on your terminal : cd your/path/to/xampp/ && php Cryptool.php </li>
